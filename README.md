@@ -76,20 +76,17 @@ I have hands-on experience in software architecture, REST API development, relat
 - JUnit 5
 - Integration Testing
 - Testcontainers
-- Spring Security Test
 - Postman
 - API Testing
 
 ### Cloud & DevOps
 
 - AWS Fundamentals
-- Docker
-- Linux
+- Docker Fundamentals
+- Linux Fundamentals
 - Git
 - GitHub
 - CI/CD Concepts
-- Kubernetes *(Learning)*
-- Infrastructure as Code *(Learning)*
 
 ---
 
@@ -135,8 +132,6 @@ Built using:
 - TypeScript
 - Angular Material
 - RxJS
-- Angular Signals
-- @ngrx/signals
 
 ### 🔐 Engineering Highlights
 

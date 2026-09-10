@@ -1,6 +1,6 @@
 # Hi, I'm Ashan 👋
 
-### Full-Stack Developer | Java | Spring Boot | Angular
+### Full-Stack Software Engineer | .NET & C# | Java | Angular | Spring Boot | MSSQL | Ex-Technical Mentor
 
 I am a Full-Stack Developer focused on building **maintainable, modular, and workflow-oriented enterprise applications** using Java, Spring Boot, Angular, and MySQL.
 

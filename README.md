@@ -10,7 +10,7 @@ I have hands-on experience in software architecture, REST API development, relat
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer experienced in **Java, Spring Boot, Angular, and MySQL**
+- 💻 Full-Stack Developer experienced in **Java, Spring Boot, .NET & C#, Angular, MySQL, and MsSQL**
 - 🏗️ Experienced in designing **modular and maintainable enterprise applications**
 - 👨‍💻 Guided the architecture and development of **30+ full-stack software projects**
 - ⚙️ Designed and maintained a reusable **Spring Boot + Angular application template**

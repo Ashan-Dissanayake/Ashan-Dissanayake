@@ -30,7 +30,7 @@ Full-stack management system for fleet, depot and public transport operations: v
 - Timefold-based optimization for crew rostering
 - PDF/Excel reports, dashboards, JUnit + Testcontainers tests
 
-🔗 [Backend](https://github.com/Ashan-Dissanayake/RouteNetLKServerApplication) · [Frontend](https://github.com/Ashan-Dissanayake/RouteNetLKClientApplication) · [Live Demo](ADD-YOUR-LINK-HERE)
+🔗 [Backend](https://github.com/Ashan-Dissanayake/RouteNetLKServerApplication) · [Frontend](https://github.com/Ashan-Dissanayake/RouteNetLKClientApplication)
 
 ---
 
